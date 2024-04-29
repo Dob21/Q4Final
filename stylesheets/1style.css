@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&family=Paytone+One&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    background-image: url('../img/bg2.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: top;
+	background-color: #8d8ac2;
+	color: white;
+}
+
+
+h3 {
+	font-family: "Paytone One", sans-serif;
+	margin-top: 10%;
+	margin-left: 22%;
+	font-size: 50px;
+	color: black;
+}
+
+.head {
+	font-family: "Kalam", cursive;
+	margin-left: 22%;
+	font-size: 30px;
+	color: black;
+	margin-bottom: 30%;
+}
+
+h1 {
+  margin-top: 2%;
+  text-align: center;
+  font-family: "Paytone One", Sans-Serif;
+  text-transform: uppercase;
+}
+
+.go1 {
+  transform: translate(5%,5%);
+  width: 47%;
+}
+
+.go2 {
+  transform: translate(5%,5%);
+  width: 47%;
+}
+
+.text {
+margin-left: 3%;
+  margin-right: 3%;
+}
+
+.q {
+  transform: translate(0,15%);
+  font-family: "Poppins", Sans-Serif;
+  margin-bottom: 6%;
+}
+
+.a {
+  font-family: "Kalam", Sans-Serif;
+}
+
+.container {
+
+	display: flex;
+
+	justify-content: center;
+}
+
+.card {
+	background: #112d4e;
+	color: #fff;
+    font-family: "Poppins", Sans-Serif;
+	font-size: 10px;
+	width: 220px;
+	height: 350px;
+	margin: 10px;
+	border-radius: 15px;
+}
+
+h2 {
+	margin-left: 10px;
+}
+
+.cardimg {
+	height: 280px;
+	margin-bottom: 20px;
+	background-size: cover;
+	border-radius: 15px 15px 0 0;
+}
+
+.c1 {
+	background-image: url('../img/ke.jpg')
+}
+
+.c2 {
+	background-image: url('../img/ce.jpg')
+}
+
+.c3 {
+	background-image: url('../img/ec.jpg')
+}
+
+.c4 {
+	background-image: url('../img/ge.jpg')
+}
+
+.c5 {
+	background-image: url('../img/vb.jpg')
+}
+
+.c6 {
+	background-image: url('../img/vg.jpg')
+}
+
+.c7 {
+	background-image: url('../img/kw.jpg')
+}
+
+.c8 {
+	background-image: url('../img/ct.jpg')
+}
+
+.c9 {
+	background-image: url('../img/gt.jpg')
+}
+
+.sb1 {
+  transform: translate(5%,5%);
+  width: 47%;
+}
+
+.sb2 {
+  transform: translate(5%,5%);
+  width: 47%;
+}
+
+.vid {
+  font-family: "Paytone One", Sans-Serif;
+  font-size: 50px;
+  text-align: center;
+  color: white;
+  margin-top: 5%;
+  margin-bottom: 3%;
+}
